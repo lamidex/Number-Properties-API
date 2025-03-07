@@ -68,8 +68,6 @@ CORS (for cross-origin resource sharing)
 
 nodemon (to restart the server automatically)
 
-pino & pino-pretty (for better colorful logs in the terminal)
-
 JavaScript (for mathematical property calculations)
 
 Installation and Setup
@@ -97,7 +95,7 @@ number-properties-api/
 │── routes/
 │   ├── numberRoutes.js
 │── helpers.js
-│── app.js
+│── index.js
 |── package-lock.json
 │── package.json
 │── README.md
